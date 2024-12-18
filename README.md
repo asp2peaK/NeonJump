@@ -1,5 +1,12 @@
 # NeonJump by [asp2peaK](https://github.com/asp2peaK)
 
+> ⚠️ **Educational Project Notice**
+> 
+> This is a learning project created for educational purposes. The code may contain non-optimal solutions,
+> experimental approaches, and areas for improvement. Feel free to suggest better implementations or
+> point out potential optimizations. Learning through coding is a journey, and this project represents
+> one step in that journey.
+
 NeonJump is a dynamic platformer game built with Phaser 3, featuring neon-styled graphics and challenging gameplay mechanics. Navigate through increasingly difficult levels, collect glowing orbs, and master the art of double jumping while dealing with various platform types.
 
 ## About
