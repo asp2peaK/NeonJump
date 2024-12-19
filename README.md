@@ -67,7 +67,7 @@ npm start
 
 ### Main Menu
 ![Main Menu](https://github.com/user-attachments/assets/85c6253b-c3ac-4ae5-a1ba-3f600730bc9b)
-*Start your neon adventure from here*
+*Start your adventure from here*
 
 ### Gameplay
 ![Gameplay](https://github.com/user-attachments/assets/bdb1eecf-157a-4cdc-b01c-d1286e9e292b)
