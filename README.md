@@ -64,6 +64,24 @@ npm run dev
 - 💎 Collect glowing orbs to score points
 - 🏁 Complete levels by collecting all orbs
 
+## Screenshots
+
+### Main Menu
+![Main Menu](https://github.com/user-attachments/assets/85c6253b-c3ac-4ae5-a1ba-3f600730bc9b)
+*Start your neon adventure from here*
+
+### Gameplay
+![Gameplay](https://github.com/user-attachments/assets/bdb1eecf-157a-4cdc-b01c-d1286e9e292b)
+*Jump between platforms and collect glowing orbs*
+
+### Platform Types
+![Platform Types](https://github.com/user-attachments/assets/cec7c179-b988-4eee-a9fd-8d1de87f025a)
+*Various platform types: normal, moving, disappearing, and bounce platforms*
+
+### Level Generation
+![Level Generation](https://github.com/user-attachments/assets/cb9be5fd-635c-4abb-8558-3a56b4edcfc0)
+*Procedurally generated levels with dynamic platform placement*
+
 ## 🚀 Future Plans
 
 - Personal Leaderboard System
