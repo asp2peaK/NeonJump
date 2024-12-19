@@ -28,7 +28,6 @@ This is an alpha version of the game. Known issues include:
 - 🏃‍♂️ Various platform types (normal, moving, disappearing, bounce)
 - 💎 Collectible orbs and scoring system
 - 📈 Progressive difficulty system
-- 🎯 Achievement tracking
 
 ## Technical Stack
 
@@ -53,7 +52,7 @@ npm install
 
 3. Start the development server:
 ```bash
-npm run dev
+npm start
 ```
 
 ## Game Controls
